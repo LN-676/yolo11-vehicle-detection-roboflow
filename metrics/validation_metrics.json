@@ -1,0 +1,26 @@
+{
+  "split": "validation",
+  "images": 966,
+  "instances": 13450,
+  "precision": 0.4963579087349777,
+  "recall": 0.6102285432455455,
+  "map50": 0.4675562447515926,
+  "map50_95": 0.32599942765088324,
+  "fitness": 0.32599942765088324,
+  "map50_95_per_class": {
+    "big bus": 0.48773,
+    "big truck": 0.41465,
+    "bus-l-": 0.019973,
+    "bus-s-": 0.44086,
+    "car": 0.50433,
+    "mid truck": 0.30891,
+    "small bus": 0.058402,
+    "small truck": 0.38446,
+    "truck-l-": 0.32828,
+    "truck-m-": 0.29906,
+    "truck-s-": 0.19194,
+    "truck-xl-": 0.4734
+  },
+  "source": "Ultralytics output stored in notebooks/yolo11_vehicle_detection_roboflow.ipynb"
+}
+
